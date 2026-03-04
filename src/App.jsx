@@ -46,7 +46,7 @@ function App() {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn"> + New Ticket</a>
+    <a className="btn to-blue-800"> + New Ticket</a>
   </div>
 </div>
     </>
