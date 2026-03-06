@@ -1,5 +1,5 @@
 
-1.What is JSX, and why is it used?
+1.What is JSX, and why is it used?<br/>
 Ans:JSX (JavaScript XML) is using react syntax so that it allows codr to write HTML code inside JavaScript.
 It is used to make UI code easier to read, write, and understand when building components.
 
