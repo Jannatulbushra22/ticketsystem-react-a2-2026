@@ -3,18 +3,17 @@
 Ans:JSX (JavaScript XML) is using react syntax so that it allows codr to write HTML code inside JavaScript.
 It is used to make UI code easier to read, write, and understand when building components.
 
-2.What is the difference between State and Props?
+2.What is the difference between State and Props?<br/>
 Ans:State can change during runtime , on the other side Props can't change it's only read.
 
-3.What is the useState hook, and how does it work?
+3.What is the useState hook, and how does it work?<br/>
 Ans:`useState` is add and manage state in functional components used in React Hook.
 
-4.How can you share state between components in React?
+4.How can you share state between components in React?<br/>
 Ans:State can be shared by lifting the state up to a common parent component and passing it to child components using props. 
 
-5.How is event handling done in React?
-Ans:By using event handler functions written in camelCase done in React
-Ex: <button onClick={handleClick}>Click</button> it's when the button is clicked.
+5.How is event handling done in React?<br/>
+Ans:By using event handler functions written in camelCase done in React. it's work when the button is clicked.
 
 
 
